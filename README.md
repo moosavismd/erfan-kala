@@ -9,6 +9,6 @@ The database configuration and the URL of site is saved in `config.php` and `adm
 The structure of database is dumped into `sql.dump`.  
 1- create `shop` database in an up and running mysql version 5.7  
 2- import `dump.sql`.  
-3- copy content of `site-data` directory into `/var/www/html` directory of your server (or whichever directory your apache is serving).  
+3- copy content of `site-data` directory into `/var/www/html` directory of your server (or whatever directory your apache is serving).  
 4- you are good to go!  
 !!!
