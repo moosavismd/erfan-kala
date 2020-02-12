@@ -11,5 +11,7 @@ The structure of database is dumped into `sql.dump`.
 2- import `dump.sql`.  
 3- copy content of `site-data` directory into `/var/www/html` directory of your server (or whatever directory your apache is serving).  
 4- you are good to go!  
-----------------------------
+
+-------------------------
+
 forked from opencart/opencart
