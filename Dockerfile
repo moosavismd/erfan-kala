@@ -1,4 +1,4 @@
-FROM php:7.2-apacheFROM php:7.2-apache
+FROM php:7.2-apache
 RUN a2enmod rewrite
 RUN set -xe \
     && apt-get update \
